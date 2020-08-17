@@ -1,0 +1,3 @@
+graft try_me_julio
+global-exclude *.py[cod] __pycache__ *.so *.ipynb
+recursive-exclude  try_me_julio/jupy *
